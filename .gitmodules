@@ -1,0 +1,6 @@
+[submodule "smol"]
+	path = smol
+	url = https://github.com/stjepang/smol.git
+[submodule "async-executor"]
+	path = async-executor
+	url = https://github.com/stjepang/async-executor.git
