@@ -4,3 +4,36 @@
 [submodule "async-executor"]
 	path = async-executor
 	url = https://github.com/stjepang/async-executor.git
+[submodule "async-task"]
+	path = async-task
+	url = https://github.com/stjepang/async-task.git
+[submodule "async-io"]
+	path = async-io
+	url = https://github.com/stjepang/async-io.git
+[submodule "async-net"]
+	path = async-net
+	url = https://github.com/stjepang/async-net.git
+[submodule "async-fs"]
+	path = async-fs
+	url = https://github.com/stjepang/async-fs.git
+[submodule "async-lock"]
+	path = async-lock
+	url = https://github.com/stjepang/async-lock.git
+[submodule "async-channel"]
+	path = async-channel
+	url = https://github.com/stjepang/async-channel.git
+[submodule "async-process"]
+	path = async-process
+	url = https://github.com/stjepang/async-process.git
+[submodule "blocking"]
+	path = blocking
+	url = https://github.com/stjepang/blocking.git
+[submodule "polling"]
+	path = polling
+	url = https://github.com/stjepang/polling.git
+[submodule "concurrent-queue"]
+	path = concurrent-queue
+	url = https://github.com/stjepang/concurrent-queue.git
+[submodule "futures-lite"]
+	path = futures-lite
+	url = https://github.com/stjepang/futures-lite.git
